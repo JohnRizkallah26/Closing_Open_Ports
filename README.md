@@ -1,6 +1,6 @@
 # 🔒 Closing Open Ports and Unnecessary Services
 
-This repository documents my work from SNHU's CYB 310 – Network Defense lab, focused on identifying and mitigating unnecessary open ports to enhance system security. The lab was completed in the InfoSec Learning environment and demonstrates layered defense using service management, firewall configuration, and port scanning.
+This repository documents my work from SNHU's CYB 310 – Network Defense lab, focused on identifying and mitigating unnecessary open ports to enhance system security. The lab was completed in the InfoSec Learning environment and demonstrates layered defense using service management, firewall configuration, and port scanning. I also uploaded a quick guide for closing unnessessary ports.
 
 ---
 
